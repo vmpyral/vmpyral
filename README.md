@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://vmpyral.github.io/assets/banner.gif)
+![mood](https://vmpyral.github.io/assets/mugetsu.gif)
 
 <br>
 
@@ -15,7 +15,6 @@
 I'll probably start a clothing brand someday — if I do, I'll drop the link here.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://vmpyral.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vmpyral)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/935867927788400640)
 
 <br>
